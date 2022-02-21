@@ -2,7 +2,13 @@ import math
 score=0
 new_score=0
 numx=0
-
+  #THE CODE IS NOT COMPLETE
+  
+  #To do
+  #1- Fix the bug with addition of the extra numbers(issue with connecting old score to the new one. Tried to fix it
+  #with classes but didnt work.
+  #2- Get check up on what operational char. did user enter to make sure they are correct.
+  
   #Make sure to check if the value is correct mathemathical sign!
 
 class Operations:
