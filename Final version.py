@@ -1,5 +1,6 @@
 import math
 
+#For future options. It is not incorporated in current calculator
 class Circle:
     def __init__(self, r):
         self.r = r    
@@ -31,7 +32,7 @@ def main():
     play = True
     b = 1
     while(play):
-        operation = input('Enter mathemathical operation: ')  # Let it be saved here, we will use it later on in the project
+        operation = input('Enter mathemathical operation: ')  
         num2 = int(input('Enter second number: '))
 
         if operation=='+':
